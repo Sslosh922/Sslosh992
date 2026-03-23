@@ -31,7 +31,7 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 
 ## 💫 About Me
 
-- 🎓 **B.Tech in Artificial intelligence & Data Science** (CGPA: 8.1)
+- 🎓 **B.Tech in Artificial intelligence & Data Science**
 - 💻 **Aspiring Java Developer** with strong Core Java & OOP knowledge
 - 🏗️ Building **full-stack applications** using Java & React
 - 🧠 Strong in **problem-solving & debugging**
